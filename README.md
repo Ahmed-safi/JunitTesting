@@ -14,6 +14,8 @@ Testing annotations:
 
 • @After&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• @AfterClas
 
+and it allows you to create and run tests efficiently and has become one of the most popular Java testing frameworks. The xUnit frameworks inspire JUnit for Smalltalk and C++. Since JUnit is a member of the xUnit family of testing frameworks, it is designed to support different tests, including unit, functional, and integration tests.
+
 ### 2. What is unit test:
 Unit testing is a software development process in which the smallest testable parts of an application, called units, are individually and independently checked for proper operation. This testing methodology is performed during the development process by software developers and sometimes QA personnel. The main goal of unit testing is to isolate the code written for testing and to determine if it works as intended.
 and is an important step in the development process, because if done correctly, it can help detect early flaws in the code that may be difficult to find in later testing phases.
